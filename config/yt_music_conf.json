@@ -1,0 +1,17 @@
+{
+  "xpath" : {
+    "time_info_label": "//span[contains(@class, 'time-info')]",
+    "shuffle_button": "//yt-formatted-string[text()[contains(.,'Перемешать')]]",
+    "play_pause_button": "//paper-icon-button[@id='play-pause-button']",
+    "next_button": "//paper-icon-button[@aria-label = 'Следующий трек']",
+    "prev_button": "//paper-icon-button[@aria-label = 'Предыдущий трек']",
+    "play_pause_as_play": "//paper-icon-button[@aria-label = 'Включить']",
+    "play_pause_as_pause": "//paper-icon-button[@aria-label = 'Приостановить']",
+    "track_title_label": "//yt-formatted-string[@class='title style-scope ytmusic-player-bar']",
+    "track_info_label": "//yt-formatted-string[@class='byline style-scope ytmusic-player-bar complex-string']",
+    "hours_after": "22",
+    "hours_until": "9",
+    "play_after": "9",
+    "morning_sound_level": "60"
+  }
+}
